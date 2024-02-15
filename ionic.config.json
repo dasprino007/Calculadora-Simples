@@ -1,0 +1,7 @@
+{
+  "name": "PjrCalc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
